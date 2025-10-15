@@ -75,22 +75,12 @@ flutter run
 ### Run the application
 
 ### 🏗️ Project Structure
-lib/
-├── main.dart                 # Application entry point
-├── screens/
-│   ├── login_screen.dart    # User authentication
-│   ├── dashboard.dart       # Main dashboard
-│   ├── workout_tracker.dart # Exercise management
-│   ├── bmi_calculator.dart  # BMI calculation & history
-│   ├── food_tracker.dart    # Food intake logging
-│   └── profile_screen.dart  # User profile & settings
-├── widgets/
-│   ├── custom_appbar.dart   # Custom app bar
-│   ├── workout_card.dart    # Exercise display
-│   └── progress_chart.dart  # Progress visualization
-└── services/
-    ├── auth_service.dart    # Firebase authentication
-    └── database_service.dart # Firestore operations
+| Directory  | Files |
+|------------|-------|
+| lib/ | main.dart |
+| screens/ | login_screen.dart, dashboard.dart, workout_tracker.dart, bmi_calculator.dart, food_tracker.dart, profile_screen.dart |
+| widgets/ | custom_appbar.dart, workout_card.dart, progress_chart.dart |
+| services/ | auth_service.dart, database_service.dart |
 
 ### 📱 App Demo
 **Authentication Flow**
