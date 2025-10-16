@@ -1,6 +1,13 @@
-# HealthTrack - Fitness Tracking App 💪
+# HealthTrack
 
-A comprehensive Flutter-based mobile application designed to help users monitor and improve their fitness lifestyle with workout tracking, food intake logging, BMI calculation, and progress monitoring.
+<div align="center">
+  
+![HealthTrack Logo](https://github.com/ShizueSeira/HealthTrack/blob/main/HealthTrackLogo.png)
+
+ A Flutter-based mobile application designed to help users monitor and improve their fitness lifestyle with workout tracking, food intake logging, BMI calculation, and progress monitoring. Sigma Tresias is a Lifesaver, ITS ABSOLUTELY WORTH IT !
+
+
+</div>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
