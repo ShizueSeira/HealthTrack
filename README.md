@@ -20,6 +20,14 @@
 |:---------:|:----------------:|:--------------:|:------------:|
 | 🏠 | 🏋️ | 📊 | 🍎 |
 | *Main dashboard with all features* | *Exercise routines and tracking* | *BMI calculation and history* | *Food intake logging* |
+
+## 📄 Documentation & Resources
+
+- 🎨 **[Storyboard & Mockup Design](https://github.com/ShizueSeira/HealthTrack/blob/main/HealthTrack%20-%20Storyboard%20%26%20Mock-up%20Design.pdf)**
+- 📁 **[Main Flutter Project File](https://github.com/ShizueSeira/HealthTrack/blob/main/Health_Track.zip)**
+- 📑 **[Documentation File](https://github.com/ShizueSeira/HealthTrack/blob/main/Healthtrack%20-%20Documentation.pdf)**
+- 📱 **[APK File](https://github.com/ShizueSeira/HealthTrack/blob/main/HealthTrack.apk)**
+  
 ## ✨ Features
 
 ### 🏋️ Workout Management
@@ -54,6 +62,36 @@
 - **State Management**: Flutter setState
 - **Architecture**: Material Design
 - **Navigation**: Flutter Navigator
+  
+### 📱 App Demo
+**Authentication Flow**
+- **Login/Register**: Firebase authentication with email/password
+- **Validation**: Form validation and error handling
+
+**Workout Flow**
+- Select workout category or create custom workout
+- Start exercise with built-in timer
+- Complete workout and save to history
+- View progress in workout tracker
+
+**Health Tracking**
+- **BMI Calculation**: Input weight and height for instant results
+- **Food Logging**: Record meals with calorie tracking
+- **Progress History**: View historical data and trends
+
+### 🎯 Future Enhancements
+- Integration with health APIs (Google Fit, Apple Health)
+- Social features and challenges
+- Advanced analytics and insights
+- Meal planning and recipes
+- Wearable device integration
+- Multi-language support
+- Dark mode theme
+
+## 👥 Development Team
+- **Charles Fredric G. Inventado** - Main Front-end Officer
+- **John Vincent B. Rodelas** - Assistant Front-end & Back-end Code Officer
+- **James Vincent V. Valles** - Main Back-end Officer
 
 ## 📥 Installation
 
@@ -88,43 +126,3 @@ flutter run
 | screens/ | login_screen.dart, dashboard.dart, workout_tracker.dart, bmi_calculator.dart, food_tracker.dart, profile_screen.dart |
 | widgets/ | custom_appbar.dart, workout_card.dart, progress_chart.dart |
 | services/ | auth_service.dart, database_service.dart |
-
-### 📱 App Demo
-**Authentication Flow**
-- **Login/Register**: Firebase authentication with email/password
-- **Validation**: Form validation and error handling
-
-**Workout Flow**
-- Select workout category or create custom workout
-- Start exercise with built-in timer
-- Complete workout and save to history
-- View progress in workout tracker
-
-**Health Tracking**
-- **BMI Calculation**: Input weight and height for instant results
-- **Food Logging**: Record meals with calorie tracking
-- **Progress History**: View historical data and trends
-
-### 👥 Development Team
-- **Charles Fredric G. Inventado** - Main Front-end Officer
-- **John Vincent B. Rodelas** - Assistant Front-end & Back-end Code Officer
-- **James Vincent V. Valles** - Main Back-end Officer
-
-### 📄 Documentation
-- Storyboard & Mockups
-- Technical Documentation
-- Source Code
-- APK File
-
-### 🎯 Future Enhancements
-- Integration with health APIs (Google Fit, Apple Health)
-- Social features and challenges
-- Advanced analytics and insights
-- Meal planning and recipes
-- Wearable device integration
-- Multi-language support
-- Dark mode theme
-
-## 🙏 Acknowledgements
-
-Special thanks to **John Vincent B. Rodelas** and **James Vincent V. Valles** for their invaluable contributions, code collaboration, and technical expertise in building the front-end components and back-end integration for HealthTrack.
