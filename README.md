@@ -124,3 +124,7 @@ flutter run
 - Wearable device integration
 - Multi-language support
 - Dark mode theme
+
+## 🙏 Acknowledgements
+
+Special thanks to **John Vincent B. Rodelas** and **James Vincent V. Valles** for their invaluable contributions, code collaboration, and technical expertise in building the front-end components and back-end integration for HealthTrack.
